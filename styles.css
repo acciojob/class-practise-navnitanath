@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+/* Class selector for Paragraph 1 and Paragraph 3 */
+.selector {
+    color: #00f; /* Blue text */
+    background-color: #eee; /* Light gray background */
+    font-family: Arial, sans-serif; /* Font style */
+    font-size: 20px; /* Font size */
+    padding: 10px; /* Add padding for better visibility */
+}
